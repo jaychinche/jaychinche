@@ -23,13 +23,6 @@ I'm a passionate developer focused on innovation and technology. My expertise li
 
 ---
 
-## 🚀 **Projects**
-- **[WanderLust](#)**: Travel booking platform using MERN stack.  
-- **[CamVibe](#)**: Video calling app with WebRTC and real-time messaging.  
-- **[AutoPlacement](#)**: Placement management system with PHP and MySQL.
-
----
-
 ## 🌐 **Profiles**
 
 ### 🏆 **LeetCode**  
