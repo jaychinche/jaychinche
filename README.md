@@ -38,13 +38,13 @@ I'm a passionate developer focused on innovation and technology. My expertise li
 ## 🌐 **Connect with Me**
 <p align="center">
   <a href="https://www.instagram.com/jay_chinche/">
-    <img src="https://img.shields.io/badge/Instagram-Jay%20Chinche-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:chinchejay@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-chinchejay@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/jaychinche">
-    <img src="https://img.shields.io/badge/LinkedIn-Jay%20Chinche-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
