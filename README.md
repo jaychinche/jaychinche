@@ -55,10 +55,6 @@ I love combining **design** with **code**, creating seamless user experiences th
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaychinche&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaychinche&theme=radical" alt="GitHub Streak" />
-</div>
 
 ---
 
