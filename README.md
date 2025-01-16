@@ -22,18 +22,6 @@ I'm a passionate developer focused on innovation and technology. My expertise li
 
 ---
 
-## 🌐 **Profiles**
-### 🔹 **Codolio**
-- **Profile:** [Jay Chinche](https://codolio.com/profile/XYd8gBDj)  
-- **Verified Platform Statistics:**
-  - **Total Questions Solved:** ![Total Questions Solved](https://img.shields.io/badge/Total%20Questions%20Solved-155-brightgreen?style=flat)
-  - **Active Days:** ![Active Days](https://img.shields.io/badge/Active%20Days-83-blue?style=flat)
-  - **Max Streak:** ![Max Streak](https://img.shields.io/badge/Max%20Streak-20%20days-yellow?style=flat)
-  - **Contests Participated:** ![Contests Participated](https://img.shields.io/badge/Contests%20Participated-1-orange?style=flat)
-  - **LeetCode Rating:** ![LeetCode Rating](https://img.shields.io/badge/LeetCode%20Rating-1471-blueviolet?style=flat)
-  - **Rank:** ![Rank](https://img.shields.io/badge/Rank-15691%20in%20Weekly%20Contest%20418-blue?style=flat)
-
----
 
 ## 🌐 **Connect with Me**
 <p align="center">
